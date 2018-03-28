@@ -1,0 +1,6 @@
+[{:借方 :消耗品費 :貸方 :事業主借 :comment "HP Elitebook" :date #inst "2017-09-21" :amount 35530}
+ {:借方 :交通費 :貸方 :事業主借 :comment "交通費 →x-y" :date #inst "2017-10-12" :amount 210}
+ {:借方 :交通費 :貸方 :事業主借 :comment "交通費 →y-z" :date #inst "2017-10-12" :amount 210}
+ {:借方 :雑費 :貸方 :事業主借 :comment "タリーズ" :date #inst "2017-10-12" :amount 460}
+ {:借方 :交通費 :貸方 :事業主借 :comment "交通費 foo->bar" :date #inst "2017-10-12" :amount 154}
+ {:借方 :交通費 :貸方 :事業主借 :comment "交通費 bar->baz" :date #inst "2017-10-12" :amount 165}]
